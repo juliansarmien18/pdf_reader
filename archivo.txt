@@ -1,0 +1,9 @@
+{
+  "No Proceso": "11001 40 03 001 2009 01695",
+  "Clase de Proceso": "Tutelas",
+  "Demandante": "NUBIA CLAUDIA PULIDO SAMUDIO",
+  "Demandado": "FAMISANAR EPS",
+  "Descripción Actuación": "Incidente Desacato Tutela AUTO CUMPLASE - Previo a continuar con el trámite que corresponda, por secretaría comuníquese el contenido de la parte resolutiva del fallo de tutela de fecha 20 de noviembre de 2009, al Representante Legal de FAMISANAR EPS, para que tengan conocimiento de su contenido y de forma inmediata rinda un informe sobre el cumplimiento a lo ordenado en el fallo en comento."
+  "Fecha\nAuto": "12/01/2023",
+  "Cuad.": null
+}
